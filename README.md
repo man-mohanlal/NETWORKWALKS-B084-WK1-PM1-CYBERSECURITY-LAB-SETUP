@@ -188,8 +188,9 @@ This laboratory is intended strictly for education purposes only.
 7-Zip: https://7-zip.org/download.html
 VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
+
 👤 Author
-Waqas Karim
+Man Mohan Lal
 Cybersecurity Professional B084
 
 LinkedIn: www.linkedin.com/in/man-mohan-jeewani-a70b20397
